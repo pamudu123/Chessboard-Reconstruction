@@ -3,7 +3,7 @@
   <h1 align="center">Chess Board Reconstrauction</h3>
 
   <p align="center">
-    Computer-Vision Pipeline
+    Using Computer-Vision
     <br />
   </p>
 </p>
