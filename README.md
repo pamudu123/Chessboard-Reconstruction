@@ -28,5 +28,5 @@ detect the corners of the board, making it an effective solution for this task.
 ### 2: Warp Perspective Transformation 
 
 <p align="center">
-<img src="Resources/wrap_img.png" width="500">
+<img src="Resources/warp_img.png" width="500">
 </p>
