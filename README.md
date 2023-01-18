@@ -30,3 +30,10 @@ detect the corners of the board, making it an effective solution for this task.
 <p align="center">
 <img src="Resources/warp_img.png" width="500">
 </p>
+
+### 3: Train Chess Peace Detection Model
+#### YOLOv8
+
+<p align="center">
+<img src="Resources/yolo.png" width="700">
+</p>
