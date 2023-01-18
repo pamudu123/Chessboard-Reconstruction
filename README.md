@@ -10,7 +10,7 @@
 
 ##  Chessborad Corners Detection
 
-### 1 Keypoint Detection Algorithm
+### 1: Keypoint Detection Algorithm
 
 <p align="center">
 <img src="Resources/chess_corners.png" width="500">
