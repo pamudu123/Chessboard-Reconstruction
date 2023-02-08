@@ -40,6 +40,6 @@ detect the corners of the board, making it an effective solution for this task.
 
 ### 4: Find Positions of Pieces
 <p align="center">
-<img src="Resources/detect_board.png" width="300">
+<img src="Resources/detect_board.png" width="350">
 </p>
 
