@@ -39,3 +39,7 @@ detect the corners of the board, making it an effective solution for this task.
 </p>
 
 ### 4: Find Positions of Pieces
+<p align="center">
+<img src="Resources/warp_img.png" width="500">
+</p>
+
