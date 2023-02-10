@@ -29,7 +29,7 @@ We are passionate about revolutionizing the way chess players analyze their game
 </p>
 
 
-##  Chessborad Corners Detection
+##  Methodology
 
 ### 1: Keypoint Detection Algorithm
 
