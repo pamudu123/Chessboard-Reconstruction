@@ -6,9 +6,9 @@
   <h2 align="center">Chess Board Reconstrauction</h2>
   
   <p>
-Introducing Chess Thinker, a revolutionary app that brings 3D technology to the traditional 2D chess board and pieces reconstruction. Chess players now have the ability to easily evaluate chess positions and get the correct evaluation and best lines.With Chess Thinker, you can capture an image of the chess position and receive immediate feedback on the best lines.
+Introducing Chess Thinker, a revolutionary app that AI technology to the traditional chess board. Chess players now have the ability to easily evaluate chess positions and get the correct evaluation and best lines.With Chess Thinker, you can capture an image of the chess position and receive immediate feedback on the best lines.
   
- As a chess player, accurately evaluating a position on a physical board can be a time-consuming and mentally demanding task. But with the help of the "Chess Thinker" App, this process is simplified and can be done in just a matter of seconds
+As a chess player, accurately evaluating a position on a physical board can be a time-consuming and mentally demanding task. But with the help of the "Chess Thinker" App, this process is simplified and can be done in just a matter of seconds
 
 Playing a friendly chess match is a great way to improve your skills and track your progress. However, it can be difficult to identify mistakes and evaluate the positions during the game. But with the "Chess Thinker" App, you can easily capture an image of the board and analyze the positions of the game to see what you missed. This makes it simple to identify areas for improvement and track your progress.
   
