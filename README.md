@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="Resources/chessThinker.png" width="600">
+<img src="Resources/chessThinker.png" height="600">
 </p>
 
 
