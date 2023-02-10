@@ -1,12 +1,18 @@
 <p align="center">
-
-  <h1 align="center">Chess Board Reconstrauction</h3>
-
+  <h1 align="center">Chess Thinker</h1>
+  <p align="center">
+<p align="center">
+  <h2 align="center">Chess Board Reconstrauction</h2>
   <p align="center">
     Using Computer-Vision
     <br />
   </p>
 </p>
+
+<p align="center">
+<img src="Resources/chessThinker.png" width="600">
+</p>
+
 
 ##  Chessborad Corners Detection
 
