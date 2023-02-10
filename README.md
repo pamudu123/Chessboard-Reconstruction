@@ -18,7 +18,7 @@ We are pleased to announce the successful test run of our innovative "Chess Thin
 
 Currently, our app only supports image analysis, but we have big plans for the future.We plan to introduce real-time evaluation system with an automatic recording system.
 
-We are passionate about revolutionizing the way chess players analyze their games and improve their skills.With "Chess Thinker" App, we are one step closer to making this vision a reality.
+To the best of my knowledge, this mobile app is a first in analyzing physical chess boards and providing evaluations.We are passionate about revolutionizing the way chess players analyze their games and improve their skills.With "Chess Thinker" App, we are one step closer to making this vision a reality.
 </p>
     <br />
   </p>
