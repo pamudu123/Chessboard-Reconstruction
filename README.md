@@ -64,3 +64,10 @@ detect the corners of the board, making it an effective solution for this task.
 <img src="Resources/detect_board.png" width="350">
 </p>
 
+#### Codes for Flutter App are available [here](https://github.com/AshanSerasinghe/chesboardCam) in separate repository 
+
+<p align="center">
+<img src="Resources/detect_board.png" width="350">
+<img src="Resources/detect_board.png" width="350">
+</p>
+
